@@ -66,9 +66,13 @@ export default {
         }
         const projects = ([ 
             {"name": "Pygame", "website": "https://github.com/THE-CONTROL/Pygame-Project"},
-            {"name": "Flask", "website": "https://control.pythonanywhere.com/"},
-            {"name": "Blog", "website": "https://phenomenal-tartufo-128db5.netlify.app/"},
-            {"name": "Gallery", "website": "https://elaborate-medovik-171096.netlify.app/"}
+            {"name": "Broker Client", "website": "https://gleaming-bavarois-a1b650.netlify.app/"},
+            {"name": "Broker Admin", "website": "https://transcendent-cucurucho-a823ad.netlify.app/"},
+            {"name": "Forum", "website": "https://profound-buttercream-2a096d.netlify.app/"},
+            {"name": "Forum Admin", "website": "https://voluble-cobbler-83c268.netlify.app/"},
+            {"name": "Gallery", "website": "https://elegant-arithmetic-273a5c.netlify.app/"},
+            {"name": "Church Database", "website": "https://magnificent-truffle-0e4787.netlify.app/"},
+            {"name": "Portfolio", "website": "https://clinquant-churros-17d5a7.netlify.app/"}
          ])
         const contacts = ([ 
             {"name": "@LawsonEkho", "website": "https://www.instagram.com/lawsonekho", 

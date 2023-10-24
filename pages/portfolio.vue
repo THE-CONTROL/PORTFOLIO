@@ -48,7 +48,7 @@ export default {
       },
       {
         name: "Forum Admin",
-        website: "https://voluble-cobbler-83c268.netlify.app/login",
+        website: "https://voluble-cobbler-83c268.netlify.app/",
         image: require("../assets/portImages/Ad1.jpeg"),
       },
       {
