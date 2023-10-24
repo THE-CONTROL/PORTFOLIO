@@ -75,15 +75,15 @@ export default {
             {"name": "Portfolio", "website": "https://clinquant-churros-17d5a7.netlify.app/"}
          ])
         const contacts = ([ 
-            {"name": "@LawsonEkho", "website": "https://www.instagram.com/lawsonekho", 
+            {"name": "@lawson_ekho", "website": "https://www.instagram.com/lawson_ekho", 
             "type": "fab", "icon": "instagram", "des":"text-white"},
-            {"name": "@LawsonEkho", "website": "https://twitter.com/LawsonEkho?t=Vrqd66efsxloF-ca84jkqQ&s=08", 
+            {"name": "@Lawson_Ekho", "website": "https://twitter.com/Lawson_Ekho?t=Vrqd66efsxloF-ca84jkqQ&s=08", 
             "type": "fab", "icon": "twitter", "des": "text-blue-600"},
             {"name": "Lawson Ekhorutomwen", "website": "https://www.linkedin.com/in/lawson-ekhorutomwen-26aa5123b", 
             "type": "fab", "icon": "linkedin", "des": "bg-blue-600 text-white"},
             {"name": "THE-CONTROL", "website": "https://github.com/THE-CONTROL", "type": "fab", 
             "icon": "github", "bg": "text-white"},
-            {"name": "lawsonekhorutomwen@gmail.com", "website": "https://elaborate-medovik-171096.netlify.app/", 
+            {"name": "lawsonekhorutomwen@gmail.com", "website": "https://mail.google.com/", 
             "type": "fas", "icon": "envelope", "des": "text-white"}
          ])
 
